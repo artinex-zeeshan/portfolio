@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-alice: Alice;
+  --font-roboto: Roboto;
+  --body-24: Nunito;
+  --title-h2: "Playfair Display";
+  --body-18: Raleway;
+  --font-corinthia: Corinthia;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --body-18-size: 18px;
+  --title-h2-size: 48px;
+  --font-size-10xl: 29px;
+  --font-size-19xl: 38px;
+  --font-size-21xl: 40px;
+  --body-24-size: 24px;
+  --font-size-13xl: 32px;
+  --title-h1-size: 64px;
+
+  /* Colors */
+  --bg-gray: #f9faff;
+  --color-black: #000;
+  --brand-yellow: #fdc435;
+  --color-darkgoldenrod: #c99103;
+  --font-medium-emphasis: #828282;
+  --font-high-emphasis: #25282b;
+  --color-aliceblue: #e8ecf4;
+  --bg-white: #fff;
+  --color-dimgray-100: #595c5e;
+  --color-dimgray-200: rgba(89, 92, 94, 0.09);
+  --gray-1: #333;
+
+  /* Gaps */
+  --gap-5xl: 24px;
+  --gap-5xs: 8px;
+  --gap-9xs: 4px;
+  --gap-xs: 12px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-5xs: 8px;
+  --padding-5xl: 24px;
+  --padding-141xl: 160px;
+  --padding-19xl-9: 38.9px;
+  --padding-140xl: 159px;
+  --padding-20xl: 39px;
+  --padding-85xl: 104px;
+  --padding-84xl: 103px;
+  --padding-4xl: 23px;
+  --padding-76xl: 95px;
+  --padding-41xl: 60px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-11xs: 2px;
+  --br-5xl: 24px;
+}
